@@ -1,3 +1,97 @@
 #logo{
     height: 50px;
 }
+.container{
+    margin-bottom: 20px;
+}
+.back-color{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 10px;
+    
+}
+/* see all text */
+#see-all{
+    color: orange;
+}
+/* align for card images */
+.img-alin{
+    height: 200px;
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 35px;
+}
+/* card text for */
+.card-body{
+    text-align: center;
+}
+
+
+/* card background color */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey ;
+}
+/* paragharp text */
+.card-text{
+    color: lightgrey;
+}
+/* catagories-hr */
+#catagories-hr{
+    margin-top: 80px;
+    
+}
+/* for catagories text */
+.catagories{
+    text-align: center;
+    margin-top: 60px;
+}
+hr{
+    
+    background-color: #FF136F;
+    margin-left: 45%;
+    margin-right: 45%;    
+}
+
+
+
+
+.shado{
+    padding-top: 20px;
+}
+ /* left side picture AND SHADOWS  */
+.padding-1{
+    margin-left: 90px;
+    padding: 0%;
+    
+}
+/* Right side picture */
+.padding-2{
+    margin-left: 180px;
+    margin-top: 40px;
+}
+/* input field and text  */
+.color-bk{
+    background-color: yellow;
+    height: 200px;
+    margin-top: 40px;
+}
+/* for inside text */
+.text-align{
+    padding-left: 50px;
+}
+/* for text-field */
+.text-field{
+    width: 400px;
+    height: 40px;
+}
