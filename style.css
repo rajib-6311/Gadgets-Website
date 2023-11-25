@@ -71,7 +71,7 @@ hr{
 }
  /* left side picture AND SHADOWS  */
 .padding-1{
-    margin-left: 90px;
+    margin-left: 60px;
     padding: 0%;
     
 }
@@ -84,7 +84,7 @@ hr{
 .color-bk{
     background-color: yellow;
     height: 200px;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 /* for inside text */
 .text-align{
@@ -94,4 +94,8 @@ hr{
 .text-field{
     width: 400px;
     height: 40px;
+}
+.footer-align{
+    margin-top: 60px;
+    height: 250px;
 }
